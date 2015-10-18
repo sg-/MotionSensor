@@ -1,9 +1,9 @@
 {
-  "name": "motion-sensor",
+  "name": "motionsensor",
   "version": "0.0.1",
   "description": "Interface class for sensors that return a type of motion",
   "keywords": [
-    "motion-sensor",
+    "motionsensor",
     "motion",
     "acceleration",
     "accel",
@@ -14,7 +14,7 @@
   ],
   "author": "Sam Grove",
   "repository": {
-    "url": "https://github.com/sg-/motion-sensor.git",
+    "url": "https://github.com/sg-/motionsensor.git",
     "type": "git"
   },
   "homepage": "",
