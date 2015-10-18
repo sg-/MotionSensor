@@ -1,0 +1,28 @@
+{
+  "name": "motion-sensor",
+  "version": "0.0.1",
+  "description": "Interface class for sensors that return a type of motion",
+  "keywords": [
+    "motion-sensor",
+    "motion",
+    "acceleration",
+    "accel",
+    "gyrometer",
+    "gyro",
+    "magnetometer",
+    "magento"
+  ],
+  "author": "Sam Grove",
+  "repository": {
+    "url": "https://github.com/sg-/motion-sensor.git",
+    "type": "git"
+  },
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {}
+}
